@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Como Começar e Seguir o Caminho como Copywriter</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background-color: #f4f4f4;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+      background: #fff;
+    }
+    h1, h2, h3 {
+      color: #1b6ca8;
+    }
+    .cta-button {
+      display: inline-block;
+      background-color: #1b6ca8;
+      color: #fff;
+      padding: 15px 25px;
+      font-size: 18px;
+      text-decoration: none;
+      margin-top: 20px;
+      border-radius: 5px;
+    }
+    .cta-button:hover {
+      background-color: #14568a;
+    }
+    .bonus, .section {
+      background-color: #eef6fb;
+      padding: 15px;
+      margin: 15px 0;
+      border-left: 4px solid #1b6ca8;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🚀 Transforme Palavras em Lucro</h1>
+    <h2>Aprenda a Arte do Copywriting e Construa uma Carreira Lucrativa do Zero</h2>
+
+    <p>Descubra o passo a passo completo para começar como copywriter, conquistar seus primeiros clientes e viver da escrita — mesmo que você nunca tenha vendido nada antes.</p>
+
+    <h3>Por que este eBook é diferente?</h3>
+    <p>O “Como Começar e Seguir o Caminho como Copywriter” é um guia completo, com mais de 70 páginas de conteúdo direto, prático e aplicável.</p>
+
+    <div class="section">
+      <h3>Você vai aprender:</h3>
+      <ul>
+        <li>Fundamentos da escrita persuasiva</li>
+        <li>Como criar seu portfólio mesmo sem experiência</li>
+        <li>Como fechar clientes como iniciante</li>
+        <li>Copy para redes sociais, anúncios e e-mails</li>
+        <li>Como usar IA para acelerar sua produção</li>
+        <li>Posicionamento, branding e vendas de produtos digitais</li>
+      </ul>
+    </div>
+
+    <div class="bonus">
+      <h3>Bônus Exclusivos:</h3>
+      <ul>
+        <li>Templates de e-mails, propostas e páginas de vendas</li>
+        <li>Checklists prontos para revisar suas copies</li>
+        <li>Planilha de organização financeira</li>
+        <li>Modelos prontos de copy para aplicar</li>
+      </ul>
+    </div>
+
+    <h3>Investimento</h3>
+    <p>Enquanto cursos custam entre R$497 e R$2000, este eBook completo está disponível por uma fração desse valor.</p>
+
+    <h3>Garantia</h3>
+    <p>Você tem 7 dias para testar o material. Se não gostar, devolvemos seu dinheiro. Simples assim.</p>
+
+    <a href="#" class="cta-button">QUERO COMEÇAR AGORA</a>
+  </div>
+</body>
+</html>
